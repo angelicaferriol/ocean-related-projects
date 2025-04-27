@@ -21,7 +21,7 @@ This project visualizes key oceanic data trends, providing a clear understanding
 
 ---
 
-## 2. Marine Heatwave Predictor 🤖
+## 2. Marine Heatwave Predictor
 
 ### Description
 This machine learning model predicts the likelihood of a marine heatwave event based on variables like Sea Surface Temperature (SST), pH, location, and date. The model will help predict future events and assist in making proactive conservation decisions.
@@ -37,7 +37,7 @@ This machine learning model predicts the likelihood of a marine heatwave event b
 
 ---
 
-## 3. Coral Bleaching Severity Classifier 🪸
+## 3. Coral Bleaching Severity Classifier
 
 ### Description
 This classification model predicts the severity of coral bleaching using features such as SST, pH, and observed species. The goal is to classify bleaching events as mild, moderate, or severe to prioritize conservation efforts.
