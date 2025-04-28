@@ -10,7 +10,7 @@
 6. [Interactive Map](#interactive-map)
 7. [Anomaly Detection](#anomaly-detection)
 
-## 1. Data Visualization Dashboard 
+## 1. Data Visualization Dashboard (STATUS: DONE)
 
 ### Description
 This project visualizes key oceanic data trends, providing a clear understanding of the state of coral reefs and their surrounding environments. The dashboard includes the following visualizations:
@@ -39,7 +39,7 @@ This machine learning model predicts the likelihood of a marine heatwave event b
 
 ---
 
-## 3. Coral Bleaching Severity Classifier
+## 3. Coral Bleaching Severity Classifier 
 
 ### Description
 This classification model predicts the severity of coral bleaching using features such as SST, pH, and observed species. The goal is to classify bleaching events as mild, moderate, or severe to prioritize conservation efforts.
@@ -54,7 +54,7 @@ This classification model predicts the severity of coral bleaching using feature
 
 ---
 
-## 4. Species Diversity Analyzer 
+## 4. Species Diversity Analyzer (STATUS: DONE)
 
 ### Description
 Analyzes the impact of environmental changes (e.g., marine heatwaves and coral bleaching) on species diversity. The tool explores:
