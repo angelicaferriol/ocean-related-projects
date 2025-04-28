@@ -1,6 +1,7 @@
 ##### This dataset is from https://www.kaggle.com/datasets/atharvasoundankar/shifting-seas-ocean-climate-and-marine-life-dataset 
 
 # Project Ideas Based on Ocean Climate Dataset
+## STATUS: 3/7 PROJECTS DONE
 
 1. [Data Visualization Dashboard](#data-visualization-dashboard)
 2. [Marine Heatwave Predictor](#marine-heatwave-predictor)
@@ -73,7 +74,7 @@ Analyzes the impact of environmental changes (e.g., marine heatwaves and coral b
 
 ---
 
-## 5. Climate Change Storytelling Report 
+## 5. Climate Change Storytelling Report (STATUS: DONE)
 
 ### Description
 This project combines data analysis with narrative storytelling. The goal is to communicate how climate change and ocean conditions have worsened, using simple data analysis and visualizations.
